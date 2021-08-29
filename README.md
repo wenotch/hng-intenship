@@ -1,4 +1,4 @@
-This is the Zuri Chat frontend built using [Next.js](https://nextjs.org/) and [React](https://reactjs.org/)
+This is the Zuri Chat frontend with the channels api attached  built using [Next.js](https://nextjs.org/) and [React](https://reactjs.org/)
 
 ## Getting Started.
 
@@ -23,6 +23,7 @@ npm run dev
 # or
 yarn dev
 ```
+cd into zc maim plugin folder, and confirm the build-plugin script
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
